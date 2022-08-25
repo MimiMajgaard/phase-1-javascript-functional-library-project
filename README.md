@@ -69,7 +69,6 @@ Googling skills to figure out how to do this.
 ### myEach
 
 `myEach(collection, callback)`
-
 Parameter(s):
 
 - a collection (either an object or an array)
